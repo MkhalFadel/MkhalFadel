@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently a CS Student<br>A FrontEnd Developer working my way to becoming FullStack dev<br>Feel Free to check my projects
+Computer Science Student<br>A React FrontEnd Developer working my way to becoming FullStack dev<br>Feel Free to check my projects
 
 
 ## 🌐 Socials:
